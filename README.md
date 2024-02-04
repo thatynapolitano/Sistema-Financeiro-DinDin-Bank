@@ -1,6 +1,6 @@
-# Sistema Financeiro DinDin Bank
+<h1 align ="center"> Sistema Financeiro DinDin Bank </h1>
 
-### <center> Um gerenciador financeiro pessoal <br> perfeito para as suas principais movimentações do dia a dia </center>
+<h3 align= "center" > <b> Um gerenciador financeiro pessoal <br> perfeito para as suas principais movimentações do dia a dia </b> </h3>
 
 O DinDin Bank foi criado no curso de Engenharia de Dados oferecido pelo banco Santander Brasil por meio do programa Santander Coders 2023 (2 Edição). 
 
