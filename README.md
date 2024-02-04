@@ -2,6 +2,8 @@
 
 <h3 align= "center" > <b> Um gerenciador financeiro pessoal <br> perfeito para as suas principais movimentações do dia a dia </b> </h3>
 
+<br>
+
 O DinDin Bank foi criado no curso de Engenharia de Dados oferecido pelo banco Santander Brasil por meio do programa Santander Coders 2023 (2 Edição). 
 
 O desafio desse projeto foi criar um sistema de controle financeiro para gerenciar algumas operações dentre elas:
