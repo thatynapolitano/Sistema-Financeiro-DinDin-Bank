@@ -17,7 +17,7 @@ O desafio desse projeto foi criar um sistema de controle financeiro para gerenci
 - <u>Atualizar</u> registros: Por meio do ID é possível atualizar o registro alterando o seu valor ou tipo. Automaticamente a nova data será a de atualização do registro. 
 - <u>Deletar</u> registros: Também por meio do ID é possível deletar o registro.
 
-Para finalizar o desafio, não pude utilizar biblioteca pandas para melhor entendimento de conceitos importantes abordados durante o primeiro módulo do curso. Além disso todos os registros deveriam ser armazenados em algum tipo de arquivo de leitura, sendo ele csv ou json. A minha escolha para esse projeto foi armazenar os registros em arquivo csv. 
+Para finalizar o desafio, não pude utilizar biblioteca pandas para melhor entendimento de conceitos importantes abordados durante o primeiro módulo do curso. Além disso todos os registros financeiros deveriam ser armazenados em algum tipo de arquivo de leitura, sendo ele csv ou json. A minha escolha para esse projeto foi armazenar os registros em arquivo csv. 
 
  
 
